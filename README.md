@@ -1,7 +1,7 @@
 # bash
 Small arcade game
 
-Arrow Keys
+Arrow keys to move
 
 A to shrink
 S to grow
