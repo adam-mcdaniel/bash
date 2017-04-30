@@ -1,4 +1,6 @@
 # bash
+Written in python 2.7
+
 Small arcade game
 
 Arrow keys to move
